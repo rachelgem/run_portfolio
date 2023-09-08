@@ -1,2 +1,3 @@
 # World Energy Consumption Analysis
-Analytics portfolio 
+
+![](world_energy_jng.jpg)
