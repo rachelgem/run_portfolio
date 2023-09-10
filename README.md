@@ -22,10 +22,10 @@ Welcome to a comprehensive analysis of **world energy consumption**. in an era m
 - Problem Solving,
 
   ## Data Cleansing and Preprocessing
-  - Identify and remove rows from dataset to avoid inaccuracies
+  - Identified and removed rows from dataset to avoid inaccuracies
   - Filtered data that are significantly different from the rest of the dataset
-  - Ensuring the data types are consistent
-  - Standardize date formats to ensure consistency and enable date-based calculations
+  - Ensured the data types are consistent
+  - Standardized date formats to ensure consistency and enable date-based calculations
   - Removed spaces,special characters in text columns to make them uniform
     
 
