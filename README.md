@@ -12,22 +12,28 @@ Welcome to a comprehensive analysis of **world energy consumption**. in an era m
 4. What are the top 5 countries in gas consumption?
 
 ## Skills:
-- Data Clening and preprocessing,
+- Data Cleaning and preprocessing,
 - Data Modeling,
 - Data Visualization,
 - DAX,
 - Filters,
 - Dashboard Design,
 - Understanding Energy Data,
-- Problem Solving,
+- Problem Solving
 
-## Data Cleansing and Preprocessing
-  - Identified and removed rows from dataset to avoid inaccuracies
-  - Filtered data that are significantly different from the rest of the dataset
+ ## Data Exploration
+This stage involves familiarizing myself with the dataset. It allows me understand the data, identify columns that need cleaning, and determine if the dataset includes the necessary columns to answer important case questions.
+The table has 74 columns and 1650 rows.
+
+## Data Preparation and Cleansing
+This is where I prepared the dataset for analysis, addressing all observations during the exploration stage. 
+  - Identified and removed null values from gas consumption column to avoid inaccuracies
+  - Filtered data from oil consumption column that are significantly different from the rest of the dataset
   - Ensured the data types are consistent
+  - It was observed that the gas production column data type was text. So I had to change it to a whole number.
   - Standardized date formats to ensure consistency and enable date-based calculations
-  - Removed spaces,special characters in text columns to make them uniform
-
+  - Removed spaces,special characters in country column to make them uniform
+    
     
 ## Visualization and Analysis
 The cleaned dataset was visualized using Power BI. 
