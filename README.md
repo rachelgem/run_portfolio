@@ -49,16 +49,16 @@ This is where I begin answering the questions provided. I utilized pie and bar c
 - The United States consumes the most gas, followed by the United Kingdom, Venezuela, Uzbekistan, and Vietnam.
 
 ##  Recommendations
-   - Energy Efficiency Measures
+   - Energy Efficiency Measures:
    Given the United States' high consumption of oil and gas, it is essential to implement rigorous energy efficiency measures at the national level. This could involve promoting the 
    use of cleaner and more energy-efficient technologies to reduce environmental impact and dependance on fossils fuels.
-   - Global Cooperation
+   - Global Cooperation:
    As a leading consumer and producer of energy resources, the United States should actively engage in international cooperation to address energy-related challenges. Collaborative 
    efforts on clean energy research, development, and deployment can contribute to a more sustainable future.
-   - Monitoring and Conservative
+   - Monitoring and Conservative:
    All countries, especially those with high consumption rates, should implement robust monitoring systems to track resouce utilization and promote conservation efforts. This can 
    help extend the lifespan of finite resources and minimize environmental impacts.
-   - Education and Awareness
+   - Education and Awareness:
   Raising public awareness about importance of energy consumption and responsible consumption is crucial. Goverments and organizations should invest in educational programs to empower 
   citizens with the knowledge and tools to make informed choices regarding energy use.
 
