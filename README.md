@@ -37,6 +37,7 @@ This is where I prepared the dataset for analysis, addressing all observations d
     
 ## Visualization and Analysis
 This is where I begin answering the questions provided. I utilized pie and bar charts to generate insights and visually represent the data.
+
 ![](wenergy.jpg)
 
 - It was discovered that the United States has the highest population, followed by the United Kingdom, Vietnam, Venezuela and Uzbekistan.
@@ -47,7 +48,7 @@ This is where I begin answering the questions provided. I utilized pie and bar c
 
 - The United States consumes the most gas, followed by the United Kingdom, Venezuela, Uzbekistan, and Vietnam.
 
-  Recommendations
+##  Recommendations
    - Energy Efficiency Measures
    Given the United States' high consumption of oil and gas, it is essential to implement rigorous energy efficiency measures at the national level. This could involve promoting the 
    use of cleaner and more energy-efficient technologies to reduce environmental impact and dependance on fossils fuels.
@@ -61,7 +62,7 @@ This is where I begin answering the questions provided. I utilized pie and bar c
   Raising public awareness about importance of energy consumption and responsible consumption is crucial. Goverments and organizations should invest in educational programs to empower 
   citizens with the knowledge and tools to make informed choices regarding energy use.
 
-  Conclusion
+  ##  Conclusion
   The United States dominates in terms of population, oil consumption, and gas consumption and production, it should prioritize sustainability and cooperation to address global energy 
   challenges effectively. Implementing these recommendations can contribute to a more balanced and environmentally friendly energy landscape.
   
