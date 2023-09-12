@@ -36,7 +36,16 @@ This is where I prepared the dataset for analysis, addressing all observations d
     
     
 ## Visualization and Analysis
-The cleaned dataset was visualized using Power BI. 
+This is where I begin answering the questions provided. I utilized pie and bar charts to generate insights and visually represent the data.
+
+- It was discovered that the United States has the highest population, followed by the United Kingdom, Vietnam, Venezuela and Uzbekistan.
+
+- In terms of oil consumption, the analysis reveals that the United States consumes the most, followed by Vietnam, the USSR, Uzbekistan and Venezuela, who consume the least.
+
+- Among the top gas-producing countries, the United States has the highest production.
+
+- The United States consumes the most gas, followed by the United Kingdom, Venezuela, Uzbekistan, and Vietnam.
+
 
  
 
