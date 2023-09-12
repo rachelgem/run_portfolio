@@ -38,7 +38,7 @@ This is where I prepared the dataset for analysis, addressing all observations d
 ## Visualization and Analysis
 This is where I begin answering the questions provided. I utilized pie and bar charts to generate insights and visually represent the data.
 
-![](wenergy.jpg)
+![](wenergy.PNG)
 
 - It was discovered that the United States has the highest population, followed by the United Kingdom, Vietnam, Venezuela and Uzbekistan.
 
