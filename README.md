@@ -3,7 +3,7 @@
 ![](world_energy.jpg)
 ***
 ## Introduction
-Welcome to a comprehensive analysis of **world energy consumption**. in an era marked by increasing concerns about environmental sustainability and energy security, understanding the dynamics of global energy comsumption is of paramount importance. This is a power Bi project on world energy consumption. This project is to analyze world energy conssumption data to identify the consumption of energy sources by countries for a more sustainable global energy future.
+Welcome to a comprehensive analysis of **world energy consumption**. in an era marked by increasing concerns about environmental sustainability and energy security, understanding the dynamics of global energy consumption is of paramount importance. This is a power Bi project on world energy consumption. This project is to analyze world energy consumption data to identify the consumption of energy sources by countries for a more sustainable global energy future.
 
 ## Problem Statement
 1. What is the most populated country?
